@@ -11,8 +11,7 @@ Welcome to my GitHub! I’m a passionate Data Analyst currently working at **Acc
 - **Data Analysis**: Excel, SQL, Python (Pandas, NumPy, Matplotlib, Seaborn)  
 - **Data Visualization**: Power BI, Tableau  
 - **Databases**: MySQL, PostgreSQL  
-- **Cloud Platforms**: Google Cloud (Associate Cloud Engineer Certified)  
-- **Others**: SAP Security, SAP BASIS, MuleSoft API Design  
+- **Cloud Platforms**: Google Cloud (Associate Cloud Engineer Certified)    
 
 ---
 
@@ -47,7 +46,7 @@ Welcome to my GitHub! I’m a passionate Data Analyst currently working at **Acc
 
 ## 📞 Let’s Connect!  
 
-- **LinkedIn**: [Amit Panth](https://www.linkedin.com/in/amit-panth/)  
+- **LinkedIn**: [Amit Panth](https://www.linkedin.com/in/amit-panth-07a157217/)  
 - **GitHub**: [github.com/amitpanth](https://github.com/amitpanth)  
 - **Email**: amitpanthofficial@gmail.com  
 
