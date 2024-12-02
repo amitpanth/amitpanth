@@ -1,10 +1,57 @@
-- 👋 Hi, I’m @amitpanth
-- 👀 I’m interested in andriod development.
-- 🌱 I’m currently learning c++ programing language.
-- 💞️ I’m looking to collaborate on open source community.
-- 📫 How to reach me amitpanthofficial@gmail.com
+# 👋 Hi, I'm Amit Panth!  
 
-<!---
-amitpanth/amitpanth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🚀 Data Analyst | 📊 Turning Data into Insights | 💻 B.Tech (CSE) Graduate  
+
+Welcome to my GitHub! I’m a passionate Data Analyst currently working at **Accenture**, where I leverage data to drive impactful business decisions. With a strong foundation in **Computer Science and Engineering** from **Graphic Era Hill University (B.Tech, 2023)**, I specialize in transforming complex datasets into actionable insights using cutting-edge tools and techniques.  
+
+---
+
+## 🛠️ Skills & Tools  
+
+- **Data Analysis**: Excel, SQL, Python (Pandas, NumPy, Matplotlib, Seaborn)  
+- **Data Visualization**: Power BI, Tableau  
+- **Databases**: MySQL, PostgreSQL  
+- **Cloud Platforms**: Google Cloud (Associate Cloud Engineer Certified)  
+- **Others**: SAP Security, SAP BASIS, MuleSoft API Design  
+
+---
+
+## 🌟 Recent Projects  
+
+### 🚗 OLA Data Analysis Project  
+- Conducted end-to-end analysis on a dataset of 100,000 rows.  
+- Tools: Excel, SQL, Power BI.  
+- Created interactive dashboards to analyze ride trends, revenue, and cancellations.  
+
+### 📈 Virat Kohli Career Dashboard  
+- Built an interactive Power BI dashboard showcasing the cricket legend's statistics.  
+- Tools: Power BI, Excel.  
+
+---
+
+## 📚 Education  
+
+**B.Tech in Computer Science and Engineering**  
+*Graphic Era Hill University*  
+*Graduated in 2023*  
+
+---
+
+## 📈 Certifications  
+
+- **Google Cloud Certified: Associate Cloud Engineer**  
+- **Databricks Certification**  
+- **Data Analytics TechLeap School 1 (Accenture)**  
+
+---
+
+## 📞 Let’s Connect!  
+
+- **LinkedIn**: [Amit Panth](https://www.linkedin.com/in/amit-panth/)  
+- **GitHub**: [github.com/amitpanth](https://github.com/amitpanth)  
+- **Email**: amitpanthofficial@gmail.com  
+
+---
+
+### 🌟 Fun Fact  
+I believe every dataset tells a story waiting to be uncovered. Let’s connect and explore the power of data together!  
